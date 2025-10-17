@@ -28,8 +28,7 @@ JavaScript (ES6)
 
 
 You can view the live version of the project here:
-https://patrick-gif955.github.io/ToDoListApp/
-
+ToDoList App:( https://patrick-gif955.github.io/ToDoList/)
 Project Structure
 ToDoListApp/
 │
