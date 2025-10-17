@@ -1,4 +1,4 @@
-To-Do List App
+To-Do List Web App
 
 This is a simple and responsive to-do list web application built with HTML, CSS, and JavaScript. It allows users to add new tasks, mark them as completed, and delete them easily. The design is clean, with smooth transitions created using CSS keyframes.
 
@@ -24,7 +24,7 @@ HTML5
 
 CSS3
 
-JavaScript (ES6)
+JavaScript 
 
 
 You can view the live version of the project here:
